@@ -1,1 +1,1 @@
-# tensorflow-tutorial
+# machine-learning/crash-course
